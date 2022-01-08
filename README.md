@@ -5,12 +5,15 @@
  the app use API from [Openweathermap](https://openweathermap.org/)
  
  ## Screenshot 📱
- ❮img src="ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/WeatherScreenshot.png" width="100" ❯
- ![WeatherScreenshot](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/WeatherScreenshot.png)
- ![SearchScreenshot](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/SearchScreenshot.png)
+ 
+ <img src="https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/WeatherScreenshot.png" width=30% height=30%>   <img src="https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/SearchScreenshot.png" width=30% height=30%>
  
 
 ## App Demo ▶ ✨
+![](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/weatherapp_3.gif)
+![](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/weatherapp_2.gif)
+![](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/weatherapp_1.gif)
+
 
 
 
