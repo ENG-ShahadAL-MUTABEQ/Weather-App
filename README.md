@@ -5,8 +5,8 @@
  the app use API from [Openweathermap](https://openweathermap.org/)
  
  ## Screenshot 📱
- ![WeatherScreenshot](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/WeatherScreenshot.png)
- ![SearchScreenshot](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/SearchScreenshot.png)
+ ![WeatherScreenshot](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/WeatherScreenshot.png),![SearchScreenshot](https://github.com/ENG-ShahadAL-MUTABEQ/Weather-App/blob/master/SearchScreenshot.png)
+ 
 
 ## App Demo ▶ ✨
 
